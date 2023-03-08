@@ -1,4 +1,4 @@
-## Folder Contains: 
+## Folder Contents: 
 
 1. RTL Design Files
 
@@ -9,4 +9,4 @@
 3. Design Document showing the architecture used for the design and the resulted waveforms for each test-case.
 
 
-*This Project is under the Supervision of Si-Vison Academy.*
+>> *This Project is under the Supervision of **Si-Vison Academy.***
